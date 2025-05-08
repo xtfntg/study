@@ -1343,7 +1343,7 @@ function App() {
       </CollapsibleSection>
 
       {/* 艺术与科技教育路径 */}
-      <CollapsibleSection title="艺术与科技教育路径">
+      <CollapsibleSection title="高中低分艺术+科技学业路径">
         <Section title="艺术与科技教育路径分析">
           <div className="grid md:grid-cols-2 gap-6">
             {/* 高分路径 */}
